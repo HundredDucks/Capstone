@@ -1,0 +1,26 @@
+%@inproceedings{ghosh1994credit,
+  title={Credit card fraud detection with a neural-network},
+  author={Ghosh, Sushmito and Reilly, Douglas L},
+  booktitle={System Sciences, 1994. Proceedings of the Twenty-Seventh Hawaii International Conference on},
+  volume={3},
+  pages={621--630},
+  year={1994},
+  organization={IEEE}
+%}
+
+
+%@online{knuthwebsite,
+%    author = "Donald Knuth",
+%    title = "Knuth: Computers and Typesetting",
+%    url  = "http://www-cs-faculty.stanford.edu/~uno/abcde.html",
+%    addendum = "(accessed: 01.09.2016)",
+%    keywords = "latex,knuth"
+%}
+
+%@online{website01,
+%    author = "",
+%    title = "",
+%    url  = "https://www.nwmissouri.edu/login/",
+%    addendum = "(accessed: 10.02.2021)",
+%    keywords = ""
+%}
